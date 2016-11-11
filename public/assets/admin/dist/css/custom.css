@@ -1,0 +1,62 @@
+
+/*.skin-blue .main-header .navbar {
+  background:#8243d6 !important; 
+  color:#fff
+}*/
+
+
+.login-box-body{
+   /*background: #ff0084;*/ 
+}
+.login-page{
+   background-image: url("../img/novelty_shop_login_bg.jpg");
+   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+   
+}
+
+.login-logo{
+    background: #fff;
+    border:2px solid#bbb;
+    font-family: 'Oswald', sans-serif;
+    text-shadow: -5px 5px 5px rgba(0,0,0, 0.3);
+}
+.login-box-body{
+    background: #ddd;
+    border-radius:5px;
+}
+.login-logo a b{
+    color:#367fa9;
+}
+.mandetory_star{
+    color:red;
+}
+.form-level{
+    text-align: right;
+}
+.dropdown-menu {
+    min-width: 20px!important;
+}
+.box-header,.modal-header,.modal-footer{
+  background:#60b9ce; 
+  color:#fff
+}
+.fa_title{
+    font-size:28px !important;
+    color:#fff;
+}
+hr{
+    margin:0px !important;
+    padding-bottom: 5px;
+}
+/*.modal-header{
+    border: 2px solid#ddd;
+}*/
+.btn-primary{
+     background:#0088cc !important; 
+     border-radius: 5px;
+}
+
+
